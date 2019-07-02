@@ -1,0 +1,3 @@
+Terminal de Node
+REPL = Read-Eval-Print-Loop
+NPM = Node Package Manager

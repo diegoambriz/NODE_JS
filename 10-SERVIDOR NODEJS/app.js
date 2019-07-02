@@ -1,0 +1,1 @@
+console.log ("Resultado:" + Math.floor (Math.random()*200));
